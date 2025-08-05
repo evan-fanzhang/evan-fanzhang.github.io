@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Fan Zhang"
   site-url: https://evan-fanzhang.github.io
-  favicon: images/site-logo_2025.png
+  favicon: images/site-logo.png
   repo-url: https://github.com/evan-fanzhang/evan-fanzhang.github.io
   repo-actions: [edit, issue]
   
