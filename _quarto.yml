@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "Fan Zhang"
+  site-url: https://evan-fanzhang.github.io
+  favicon: images/site-logo_2025.png
+  repo-url: https://github.com/evan-fanzhang/evan-fanzhang.github.io
   repo-actions: [edit, issue]
   
   page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+    # left: |
+    #   [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -24,16 +24,16 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      # - text: "Books"
+      #   href: books.qmd
+      # - text: "Blogs"
+      #   href: blog.qmd
+      # - text: "Codes"
+      #   href: codes.qmd
+      # - text: "中文"
+      #   href: Chinese.qmd
       - text: "CV"
-        href: CV.pdf
+        href: CV_EN_FanZhang_250310.pdf
 
 format:
   html:
